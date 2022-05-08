@@ -1,7 +1,7 @@
 # Simple-Calculator
 ![image](https://user-images.githubusercontent.com/57596275/167306605-7eeca9d8-b337-4ccb-8bd9-c99f35ec9218.png)
 
-This is portfolio project to build a basic calculator GUI with basic functionalites. Functionalities include calculation decimal numbers, addition, multiplication, division and subtraction. You can also delete numbers in case you have entered a wrong number. To close the 
+This is portfolio project to build a basic calculator GUI with basic functionalites. Functionalities include calculation decimal numbers, addition, multiplication, division and subtraction. You can also delete numbers in case you have entered a wrong number. To close the GUI, you can simply click on the 'OFF' button.
 
 ## How to run
 
